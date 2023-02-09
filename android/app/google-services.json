@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62287516564",
+    "project_id": "suppliment-shop",
+    "storage_bucket": "suppliment-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62287516564:android:1c68b138b5f87ffcfaf581",
+        "android_client_info": {
+          "package_name": "com.example.gymsupplimentshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62287516564-dshk89vt3e8hhuomp2h4e0i7b9o0eo1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGOM5kFsf1nqUL1iI3sC5kdnZmZvWiYMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62287516564-dshk89vt3e8hhuomp2h4e0i7b9o0eo1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
